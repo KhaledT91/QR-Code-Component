@@ -9,7 +9,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Author](#author)
  ## Overview
  ### Screenshot
- ![](./images/solution.png)
+ ![](./images/Solution.png)
  ### Links
  
  ## My process
